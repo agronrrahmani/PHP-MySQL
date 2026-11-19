@@ -7,9 +7,9 @@ $arrays=array(
 );
 for($i=1;$i<4;$i++) {
     for($b=1;$b<4;$b++){
-        echo "Array" . $i "Elementi" . $b "<br>";
+        echo "Array : $i Elementi: $b <br>";
     }
-    echo "<br>"
+    echo "<br>";
 }
 
 ?>
